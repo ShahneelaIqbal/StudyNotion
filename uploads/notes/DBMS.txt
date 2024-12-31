@@ -1,0 +1,12 @@
+Database content refers to the data and information stored in a database. The content of a database can include datasets, libraries, impacts, and LCA-models. 
+Here are some types of databases and their characteristics:
+Relational databases
+Also known as SQL databases, these databases organize data into tables with rows and columns. Relational database management systems (RDBMS) use SQL to manage and query data. Some examples of relational databases include MySQL, PostgreSQL, and SQL Server. 
+NoSQL databases
+Also known as non-relational databases, these databases are designed to accommodate a variety of data models. They are useful for large sets of distributed data, and can handle big data performance issues better than relational databases. Some examples of NoSQL databases include MongoDB, CouchDB, and Redis. 
+Object-oriented databases
+These databases store and manipulate complex data structures called "objects". Objects are organized into hierarchical classes that can inherit properties from higher classes. 
+Cloud databases
+These databases store and execute data over the cloud, and are accessible through a hybrid or cloud environment. Users can build their own cloud database or pay for a service to get started. 
+Open source databases
+These databases have open source source code.
